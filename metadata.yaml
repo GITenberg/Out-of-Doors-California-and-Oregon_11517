@@ -1,0 +1,26 @@
+_repo: Out-of-Doors-California-and-Oregon_11517
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Graves, J. A. (Jackson Alpheus)
+    alias: Graves, Jackson Alpheus
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '4010'
+    url: http://www.gutenberg.org/2009/agents/4010
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11517'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pacific States -- Description and travel'
+- !lcsh 'California, Southern -- Description and travel'
+- !lcc 'F850.5'
+- GITenberg
+title: Out of Doors—California and Oregon
+url: http://www.gutenberg.org/ebooks/11517
